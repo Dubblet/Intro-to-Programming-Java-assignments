@@ -1,0 +1,4 @@
+test!
+this is in all lowercase in the read file.
+it should be in all caps when copied to the write file.
+hi professor!
